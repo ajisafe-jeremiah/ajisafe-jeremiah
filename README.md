@@ -1,20 +1,32 @@
-Header: Ajisafe Jeremiah| Sofware Dev | Web Developer, Mobile App Enthusiast, Ethical Hacker, Cyber Security Advocate
+# Hi, I'm Ajisafe Jeremiah 👋
 
-Bio:
-Hi, I'm Ajisafe Jeremiah, a multifaceted tech enthusiast with a passion for building innovative solutions! I'm currently honing my skills in React and i am excited to collaborate on projects that combine Web development, Mobile applications, Ethical hacking, and Cyber security. Let's create something amazing together!
+### Software Engineer | Web & Mobile Developer | AI & Automation Enthusiast
 
-Skills:
+I build practical software that helps people and businesses solve problems. My work spans web applications, backend APIs, and mobile apps, with a focus on reliability, usability, and maintainable code.
 
-- Web Development (Laravel, HTML, CSS, JavaScript, React)
-- Mobile Application Development(Flutter)
-- Ethical Hacking
-- Cyber Security
-- Collaborative Problem-Solving
+I work with **Laravel, Python, JavaScript, and Flutter**, and explore how **large language models, AI agents, and Model Context Protocol (MCP)** can support smarter applications and automate workflows.
 
-Get in Touch:
-ajisafejerry@gmail.com
+I’m also interested in ethical hacking and cybersecurity, with a commitment to building secure digital experiences.
 
-Let's Connect and Build Something Awesome!
+## 🛠️ Skills & Technologies
+
+- **Web Development:** Laravel, React, HTML, CSS, JavaScript, TypeScript
+- **Backend & APIs:** PHP, Python, FastAPI, REST APIs
+- **Mobile Development:** Flutter, Dart, Bloc/Cubit
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **AI & Automation:** LLM integration, AI agents, MCP
+- **Tools:** Git, GitHub, Docker
+- **Security Interests:** Ethical hacking, API security, cybersecurity
+
+## 🤝 Let's Collaborate
+
+I’m open to collaborating on web and mobile applications, backend services, and AI-powered tools that solve real problems.
+
+## 📫 Get in Touch
+
+**Email:** [ajisafejerry@gmail.com](mailto:ajisafejerry@gmail.com)
+
+Let’s turn ideas into useful software.
 
 <!---
 ajisafe-jeremiah/ajisafe-jeremiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
